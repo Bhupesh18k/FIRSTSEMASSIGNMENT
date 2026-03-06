@@ -46,7 +46,7 @@ The purpose of this repository is to:
 ## How to Use
 
 1. Clone the repository to your local machine.
-2. Open the Jupyter Notebook (`hw1 (2).ipynb`) in VS Code or any compatible editor.
+2. Open the Jupyter Notebook (`2025BSDSAI032_BHUPESH_KUMAR_PL.ipynb`) in VS Code or any compatible editor.
 3. Run the code cells to see the solutions and outputs for each problem.
 4. Review the explanations and comments for understanding the logic and approach.
 
