@@ -59,9 +59,3 @@ The purpose of this repository is to:
 - Please follow academic integrity guidelines when sharing or referencing this work.
 
 ---
-
-## Repository Link
-
-*Add your GitHub repository link here after uploading.*
-
----
